@@ -51,7 +51,7 @@ p {
 
 #showcase .bg-image {
   position: absolute;
-  background: #201f1f url(img/programming.jpg);
+  background: #201f1f url(./img/programming.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
